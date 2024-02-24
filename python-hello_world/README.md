@@ -1,1 +1,1 @@
-my first readme
+a biginner approach to python
